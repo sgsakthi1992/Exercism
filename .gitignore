@@ -1,0 +1,8 @@
+/java/*/.gradle/
+/java/*/.idea/
+/java/*/.exercism/
+/java/*/build/
+/java/*/gradle/
+/java/*/gradlew
+/java/*/gradlew.bat
+/.idea/
